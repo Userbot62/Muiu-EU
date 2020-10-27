@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+    <RomName>xiaomi.eu</RomName>
+    <VersionName>xiaomi.eu 20.10.15</VersionName>
+    <VersionNumber type="integer">12000020</VersionNumber>
+    <DirectUrl nil="true"/>
+    <HttpUrl>https://safelinku.com/ref/MhdRezza</HttpUrl>
+    <Android>10.0</Android>
+    <CheckMD5>4cc0b48deb2ae3dfa77edf33a3d3fd95</CheckMD5>
+    <FileSize type="integer">1902581494</FileSize>
+    <Developer>Mhd Rezza</Developer>
+    <WebsiteURL>http://t.me/miuioncliteupdate</WebsiteURL>
+    <DonateURL>http://t.me/MhdRezza23</DonateURL>
+    <Changelog>###Changelog
+    * New Launcher 
+    * Added OTA update
+    * Smooth gesture
+    * Use SiLonT Kernel 4.9.240</Changelog>
+</ROM>
