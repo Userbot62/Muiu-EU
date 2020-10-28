@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
     <RomName>xiaomi.eu</RomName>
-    <VersionName>xiaomi.eu 20.10.15</VersionName>
+    <VersionName>xiaomi.eu 20.10.22</VersionName>
     <VersionNumber type="integer">12000020</VersionNumber>
     <DirectUrl nil="true"/>
     <HttpUrl>https://safelinku.com/ref/MhdRezza</HttpUrl>
@@ -11,9 +11,10 @@
     <Developer>Mhd Rezza</Developer>
     <WebsiteURL>http://t.me/miuioncliteupdate</WebsiteURL>
     <DonateURL>http://t.me/MhdRezza23</DonateURL>
-    <Changelog>###
-    * New Launcher 
+    <Changelog>###20.10.22
+    * New UI Style AOSP
     * Added OTA update
+    * New Laucher (MIUIHome)
     * Smooth gesture
     * Use SiLonT Kernel 4.9.240</Changelog>
 </ROM>
