@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-    <RomName>xiaomi.eu</RomName>
-    <VersionName>xiaomi.eu 20.10.22</VersionName>
-    <VersionNumber type="integer">12000020</VersionNumber>
+    <RomName>Miui Global Redmi 7 (onclite)</RomName>
+    <VersionName>12.2_20.10.22</VersionName>
+    <VersionNumber type="integer">12000021</VersionNumber>
     <DirectUrl nil="true"/>
-    <HttpUrl>https://safelinku.com/ref/MhdRezza</HttpUrl>
+    <HttpUrl>https://drive.google.com/uc?id=1-mz8Sulgtm2OvFRwv-lPBpmGJaVBpItY&export=download</HttpUrl>
     <Android>10.0</Android>
-    <CheckMD5>4cc0b48deb2ae3dfa77edf33a3d3fd95</CheckMD5>
-    <FileSize type="integer">1902581494</FileSize>
+    <CheckMD5>8d474f662629f532ad4ec354562c8730</CheckMD5>
+    <FileSize type="integer">30714964</FileSize>
     <Developer>Mhd Rezza</Developer>
     <WebsiteURL>http://t.me/miuioncliteupdate</WebsiteURL>
     <DonateURL>http://t.me/MhdRezza23</DonateURL>
-    <Changelog>###20.10.22 | Stable
-    * New UI Style AOSP
-    * Added OTA update
-    * New Laucher (MIUIHome)
-    * Smooth gesture
-    * Use SiLonT Kernel 4.9.240</Changelog>
+    <Changelog>###20.10.22 | Stable #1
+    * Update Settings.apk
+    * Added Home PreferenceScreen
 </ROM>
